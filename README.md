@@ -32,8 +32,7 @@ PCL CE 是基于 PCL 开源代码二次开发的社区版本，包括了主线�
 
 欢迎大家来用用看！
 
-**开发群:** [599620549](https://qm.qq.com/q/PNQA4Md8wc)[✦](https://t.me/+78XW2bUOvKJjMTZl) | **用户 1 群:** [1028074835](https://qm.qq.com/q/qrMGJo8BQQ) | **用户 2 群:** [1070029541](https://qm.qq.com/q/lBywbDMWhG)
-
+**开发群:** [1103384304]
 ## 💻 支持平台
 
 | 操作系统 | 支持情况 | 环境要求 |
